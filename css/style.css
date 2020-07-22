@@ -36,3 +36,11 @@
 .bg-parallax {
     background-attachment: fixed;
 }
+
+.container h1 {
+    font-size: 10em;
+}
+
+.container h3 {
+    font-size: 2em;
+}
